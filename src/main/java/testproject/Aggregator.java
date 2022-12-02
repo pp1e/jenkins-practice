@@ -10,6 +10,7 @@ class Aggregator {
      */
     void addValue(double value) {
         sum += value;
+	1/0
     }
 
     /**
